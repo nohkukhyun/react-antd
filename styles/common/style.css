@@ -1,0 +1,19 @@
+body {
+  position: relative;
+  height: 100%;
+}
+section {
+  min-height: 100vh;
+  overflow-y: scroll;
+}
+
+.SearchSectionWrap {
+  width: 100%;
+  position: relative;
+}
+
+.SectionTitleAndButton {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
